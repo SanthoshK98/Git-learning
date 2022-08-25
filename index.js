@@ -1,1 +1,1 @@
-console.log('Master branch')
+console.log('feature/first branch')
