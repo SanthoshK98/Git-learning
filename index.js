@@ -21,4 +21,8 @@ console.log("Git check line on feature/first")
 
 //added line on github
 
+
 //Again added line on feature/first
+
+//line adding in master to check "git merge master" in feature/first
+
