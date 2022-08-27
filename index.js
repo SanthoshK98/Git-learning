@@ -18,3 +18,6 @@ console.log("Git check line on feature/first")
 //installed npm moment on master
 
 //git merge master end
+
+//added line on github
+
