@@ -26,3 +26,5 @@ console.log("Git check line on feature/first")
 
 //line adding in master to check "git merge master" in feature/first
 
+//added npm cors on feature/first branch
+
